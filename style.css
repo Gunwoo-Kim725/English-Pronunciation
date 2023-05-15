@@ -4,7 +4,7 @@ body {
 
 /* 제목 1 */
 h1 {
-    font-size: 70px;
+    font-size: 40px;
     text-align: center;
 }
 
@@ -15,19 +15,19 @@ h2 {
     padding-top: 10px; /* 위쪽 여백 */
     padding-bottom: 10px; /* 아래쪽 여백 */
     background-color: rgb(231, 230, 230);
-    font-size: 60px;
+    font-size: 35px;
     text-align: center;
 }
 
 /* 제목 3 */
 h3 {
-    font-size: 55px;
+    font-size: 32px;
     text-align: center;
 }
 
 /* 제목 4 */
 h4 {
-    font-size: 50px;
+    font-size: 30px;
     text-align: center;
 }
 
@@ -35,7 +35,7 @@ h4 {
 .kor-sent,
 .kor-word {
     color: rgb(0, 192, 80);
-    font-size: 40px;
+    font-size: 25px;
 }
 
 .kor-word {
@@ -46,7 +46,7 @@ h4 {
 .sent-pron,
 .word-pron {
     color: rgb(192, 0, 0);
-    font-size: 40px;
+    font-size: 28px;
 }
 
 .word-pron {
@@ -60,7 +60,7 @@ h4 {
     transition: background-color 0.3s, color 0.3s; /* 애니메이션 효과를 부드럽게 적용하기 위한 설정 */
     font-family: Open Sans;
     color: rgb(0, 112, 192);
-    font-size: 45px;
+    font-size: 30px;
 }
 
 .eng-sent:hover,
