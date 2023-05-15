@@ -80,7 +80,7 @@ h4 {
 /* 링크 스타일 */
 a {
     display: block;
-    font-size: 50px;
+    font-size: 30px;
     color: rgb(0, 0, 0); /* 기본 글자색 */
     background-color: white; /* 기본 배경색 */
     text-decoration-line: none;
@@ -131,7 +131,6 @@ th {
 
 .m-btn {
     transition: background-color 0.3s, color 0.3s; /* 애니메이션 효과를 부드럽게 적용하기 위한 설정 */
-    font-family: Open Sans;
     background-color: rgb(196, 236, 212);
     color: rgb(0, 192, 80);
     font-size: 35px;
