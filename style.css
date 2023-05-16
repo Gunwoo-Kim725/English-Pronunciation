@@ -142,6 +142,7 @@ th {
 }
 
 .m-btn {
+    padding: 8px 10px;
     transition: background-color 0.3s, color 0.3s; /* 애니메이션 효과를 부드럽게 적용하기 위한 설정 */
     background-color: rgb(196, 236, 212);
     color: rgb(0, 192, 80);
