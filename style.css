@@ -103,7 +103,9 @@ th {
     padding: 10px 20px;
     /* text-align: center; */
     vertical-align: top;
-    border: 1px solid black; /* 예시로 테두리를 추가하였습니다 */
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(233, 233, 233);
 }
 
 /* 메뉴바 --------------------------------------------------------------------------- */
