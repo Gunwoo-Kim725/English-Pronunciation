@@ -56,7 +56,7 @@ h4 {
 /* 영어 텍스트 */
 .eng-sent,
 .eng-word {
-    padding-left: 0px;
+    /* padding-left: 0px; */
     transition: background-color 0.3s, color 0.3s; /* 애니메이션 효과를 부드럽게 적용하기 위한 설정 */
     font-family: Open Sans;
     color: rgb(0, 112, 192);
@@ -100,8 +100,8 @@ table {
 
 td,
 th {
-    padding: 5px;
-    text-align: center;
+    padding: 10px 20px;
+    /* text-align: center; */
     vertical-align: top;
     border: 1px solid black; /* 예시로 테두리를 추가하였습니다 */
 }
